@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.opendb
+
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Other environment-specific files
+*.log
+*.tlog
+*.ilk
+*.idb
